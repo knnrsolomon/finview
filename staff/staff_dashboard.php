@@ -1,0 +1,1 @@
+<?php include_once '../includes/header.php'; ?><h2>Staff Dashboard</h2><?php include_once '../includes/footer.php'; ?>
